@@ -1,0 +1,25 @@
+% ----------------------------------------------------------
+% Names of experiments should be unique for each script file
+% ----------------------------------------------------------
+new experiment
+name
+pom-real
+dir
+./DataOrdinal
+datasets
+ERA,ESL,LEV,SWD,automobile,balance-scale,car,contact-lenses,eucalyptus,newthyroid,pasture,squash-stored,squash-unstored,tae,toy,winequality-red	
+algorithm
+AdaBoostORELM
+standarize
+1
+standarize
+1
+crossval
+mae
+parameter C
+10.^(-1:1:3)
+parameter k
+10.^(-3:1:3)
+seed
+1
+end experiment

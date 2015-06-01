@@ -1,0 +1,21 @@
+% ----------------------------------------------------------
+% Names of experiments should be unique for each script file
+% ----------------------------------------------------------
+new experiment
+name
+pom-real
+dir
+./DataOrdinal
+datasets
+toy,balance-scale
+algorithm
+ORNNELM
+standarize
+1
+crossval
+mae
+parameter hiddenN
+5,10,20,40,60,80,90,100
+seed
+1
+end experiment

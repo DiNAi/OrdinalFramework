@@ -1,0 +1,21 @@
+% ----------------------------------------------------------
+% Names of experiments should be unique for each script file
+% ----------------------------------------------------------
+new experiment
+name
+elmor-real
+dir
+./DataOrdinal
+datasets
+contact-lenses
+algorithm
+ELMOR
+standarize
+1
+crossval
+mae
+parameter hiddenN
+5,10,20
+seed
+1
+end experiment

@@ -1,0 +1,15 @@
+% ----------------------------------------------------------
+% Names of experiments should be unique for each script file
+% ----------------------------------------------------------
+new experiment
+name
+gmor
+dir
+DataOrdinal
+datasets
+pasture
+algorithm
+DGCplus
+standarize
+1
+end experiment

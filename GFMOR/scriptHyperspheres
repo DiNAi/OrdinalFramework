@@ -1,0 +1,23 @@
+% ----------------------------------------------------------
+% Names of experiments should be unique for each script file
+% ----------------------------------------------------------
+new experiment
+name
+Hyperspheres
+dir
+DataOrdinal
+datasets
+squash-stored
+algorithm
+HyperspheresModel
+optimizer
+local
+standarize
+1
+crossval
+mae
+parameter S
+20
+seed
+1
+end experiment

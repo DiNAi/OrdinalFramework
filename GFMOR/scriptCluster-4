@@ -1,0 +1,19 @@
+% ----------------------------------------------------------
+% Names of experiments should be unique for each script file
+% ----------------------------------------------------------
+new experiment
+name
+gmor
+dir
+DataOrdinal
+datasets
+winequality-red
+algorithm
+GFMOR
+optimizer
+local
+cost
+quadratic
+standarize
+1
+end experiment

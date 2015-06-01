@@ -1,0 +1,18 @@
+new experiment
+name
+oNN-real
+dir
+./DataOrdinal
+datasets
+contact-lenses
+algorithm
+oNN
+standarize
+1
+crossval
+mae
+parameter hiddenN
+30,40
+seed
+1
+end experiment

@@ -1,0 +1,23 @@
+% ----------------------------------------------------------
+% Names of experiments should be unique for each script file
+% ----------------------------------------------------------
+new experiment
+name
+pom-real
+dir
+./DataOrdinal
+datasets
+debug-newthyroid
+algorithm
+POMELM
+standarize
+1
+standarize
+1
+crossval
+mae
+parameter hiddenN
+5,10,20
+seed
+1
+end experiment

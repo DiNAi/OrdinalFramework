@@ -1,0 +1,40 @@
+10
+
+dir
+61
+svn+ssh://act@sophia.estec.esa.int/var/svn/GFMOR/DataOrdinal/toy
+svn+ssh://act@sophia.estec.esa.int/var/svn/GFMOR
+
+
+
+2013-03-08T17:01:47.864808Z
+2
+act
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14db4197-ab94-4eaf-8cbf-230ec364d6aa
+
+nnep
+dir
+
+gpor
+dir
+
+weka
+dir
+
+libsvm
+dir
+

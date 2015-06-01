@@ -1,0 +1,21 @@
+% ----------------------------------------------------------
+% Names of experiments should be unique for each script file
+% ----------------------------------------------------------
+new experiment
+name
+kNN-real
+dir
+DataOrdinal
+datasets
+newthyroid
+algorithm
+NNClassification
+standarize
+1
+crossval
+ccr
+parameter S
+2,10,15,20
+seed
+1
+end experiment
