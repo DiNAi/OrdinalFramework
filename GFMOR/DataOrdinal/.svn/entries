@@ -1,0 +1,136 @@
+10
+
+dir
+60
+svn+ssh://act@sophia.estec.esa.int/var/svn/GFMOR/DataOrdinal
+svn+ssh://act@sophia.estec.esa.int/var/svn/GFMOR
+
+
+
+2013-03-13T16:06:02.226733Z
+9
+act
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14db4197-ab94-4eaf-8cbf-230ec364d6aa
+
+marketing
+dir
+
+contact-lenses
+dir
+
+winequality-red
+dir
+
+ESL
+dir
+
+stock
+dir
+
+stock10
+dir
+
+debug
+dir
+
+LEV
+dir
+
+winequality-white
+dir
+
+alimentos
+dir
+
+newthyroid
+dir
+
+SWD
+dir
+
+bondrate
+dir
+
+abalone
+dir
+
+abalone10
+dir
+
+car
+dir
+
+ERA
+dir
+
+debug2
+dir
+
+tae
+dir
+
+debug3
+dir
+
+debug4
+dir
+
+balance-scale
+dir
+
+debug5
+dir
+
+thyroid
+dir
+
+pasture
+dir
+
+eucalyptus
+dir
+
+automobile
+dir
+
+pyrim
+dir
+
+pyrim10
+dir
+
+squash-stored
+dir
+
+machine
+dir
+
+machine10
+dir
+
+squash-unstored
+dir
+
+toy
+dir
+
+housing
+dir
+
+housing10
+dir
+
