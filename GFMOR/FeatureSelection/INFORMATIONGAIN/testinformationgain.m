@@ -1,0 +1,1 @@
+[gain, max_gain_feature] = infogain([1 2 1 2 1 2 1 2]',[1 1 1 1 2 2 2 2])
